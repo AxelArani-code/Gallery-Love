@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "361078588031",
+    "project_id": "gallery-love",
+    "storage_bucket": "gallery-love.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361078588031:android:bf55d5e9e83711525a754a",
+        "android_client_info": {
+          "package_name": "com.example.gallerylove"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361078588031-s96tp566v3caecofvj652us68jpgv3qj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApVpke8tZUwojrhhrOUiWZif-snI3OhXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361078588031-s96tp566v3caecofvj652us68jpgv3qj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
